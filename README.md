@@ -126,6 +126,6 @@ npm run export
 
 ご質問やご相談がございましたら、お気軽にお問い合わせください。
 
-- メール: info@ai-revolution.co.jp
+- メール: nakatani@ai-revo.co.jp
 - 住所: 〒530-0001 大阪府大阪市北区梅田1丁目2番2号 大阪駅前第2ビル12-12
 # ai-revolution-website
